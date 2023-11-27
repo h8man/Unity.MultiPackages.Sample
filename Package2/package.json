@@ -1,0 +1,11 @@
+{
+    "name": "com.h8man.Unity.MultiPackages.Sample.Package2",
+    "displayName": "Unity.MultiPackages.Sample.Package2",
+    "version": "0.1.1",
+    "unity": "2019.2",
+    "description": "",
+    "dependencies":
+	{
+		"com.h8man.Unity.MultiPackages.Sample.Package1": "https://github.com/h8man/Unity.MultiPackages.Sample.git?path=/Package1",
+	}
+}
